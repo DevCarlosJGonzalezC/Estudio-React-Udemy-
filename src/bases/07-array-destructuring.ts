@@ -15,11 +15,11 @@ console.log(numeros + 100);
 
 // TAREA
 
-const useState = () => {
-    return ('ABC', () => {
-        console.log('Vegeta');
-    }) as const;
-}
+// const useState = () => {
+//     return ('ABC', () => {
+//         console.log('Vegeta');
+//     }) as const;
+// }
 
 
 
